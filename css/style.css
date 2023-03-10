@@ -1,0 +1,41 @@
+/* Created by: Shyla Oommen
+* Created on: Mar 2023
+* This CSS file defines the style for index.php
+* ICS2O-Unit2-03-HTML-StreetAddress
+*/
+
+body {
+  background-color: #daeffb;
+}
+
+h1 {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+  padding: 20px;
+  background-color: #147eb8;
+  color: #c8e8f9;
+  font-weight: bold;
+  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"
+  padding: 20px;
+  text-align: center
+}
+
+form {
+  background-color: #147eb8;
+  color: #c8e8f9;
+  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"
+  margin-top: 15%
+  margin-left: 10%;
+  padding: 20px;
+  text-align: center
+}
+
+iframe {
+  width: 80%;
+  margin-top: 30px;
+  margin-bottom: 5%;
+  background-color: #147eb8;
+  color: #c8e8f9;
+  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"
+}
